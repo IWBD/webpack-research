@@ -6,4 +6,4 @@ function component() {
   return el
 }
 
-docuemnt.body.appendChild( component() )
+document.body.appendChild( component() )
